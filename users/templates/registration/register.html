@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>$Title$</title>
+</head>
+<body>
+
+<!-- templates/expenses/home.html -->
+{% extends "base_generic.html" %}
+{% block content %}
+<h1>Expenses</h1>
+<ul>
+    {% for expense in expenses %}
+        <li>{{ expense.name }}: {{ expense.amount }}</li>
+    {% endfor %}
+</ul>
+<p>Total Expenses: {{
+
+
+$END$
+</body>
+</html>

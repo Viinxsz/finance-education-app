@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2260d331-12c2-4ce8-b5b0-2b377e27a703" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/templates/expenses/add_expense.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/templates/expenses/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/templates/expenses/set_budget.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finance_app/FinanceSettings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finance_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finance_app/finance_app_urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finance_app/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finance_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finance_app/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/registration/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hqlI9ygK1fujGrQBZxxxYjEw7l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.Manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.URL_Users.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Users_View.executor&quot;: &quot;Run&quot;,
+    &quot;Python.expenses_forms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.expenses_views.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.finance_app_urls.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
+    &quot;Python.urls.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wsgi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\User\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="a92cf950-224a-418f-945d-c03f45f6e36e" reportId="pythonProject/qodana/2024-06-15" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\FinanceEducation\pythonProject\finance_app" />
+      <recent name="C:\Users\User\FinanceEducation\pythonProject" />
+      <recent name="C:\Users\User\FinanceEducation\pythonProject\users" />
+      <recent name="C:\Users\User\FinanceEducation\pythonProject\users\templates" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2260d331-12c2-4ce8-b5b0-2b377e27a703" name="Changes" comment="" />
+      <created>1718329405841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718329405841</updated>
+    </task>
+    <servers />
+  </component>
+</project>
